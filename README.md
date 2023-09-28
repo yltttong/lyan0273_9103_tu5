@@ -1,6 +1,4 @@
 # Week 8 Quiz
-hhhhhhhhbbb
-
 ## Imaging Technique Inspiration
 66f
 
