@@ -1,11 +1,13 @@
-# Heading level 1
+# Week 8 Quiz
 hhhhhhhhbbb
 
-## Heading level 2
+## Imaging Technique Inspiration
 66f
 
-# images
+## Coding Technique Exploration
+
+## images
 ![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.avif "San Juan Mountains")
 
-# links
+## links
 My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
