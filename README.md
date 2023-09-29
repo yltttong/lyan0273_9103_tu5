@@ -17,4 +17,4 @@ I am planning to incorporate randomization techniques to add more variety and su
 ![ BubbleChamber!](/assets/images/BC.png "Bubble Chamber")
 
 ## 2.3link
-One example of an implementation is [BubbleChamber](https://openprocessing.org/sketch/1727335).
+One example of an implementation is [BubbleChamber by SamuelYAN](https://openprocessing.org/sketch/1727335).
