@@ -4,7 +4,7 @@ Inspired by this work, I want to incorporate the particle elements from that wor
 
 ## images
 
-![ Bubble Chamber!](/assets/images/univ42.jpg "Bubble Chamber")
+![ Bubble Chamber!](/assets/images/univ51.jpg "Bubble Chamber")
 ![ Bubble Chamber!](/assets/images/univ26.jpg "Bubble Chamber")
 
 
