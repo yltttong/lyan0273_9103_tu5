@@ -1,11 +1,11 @@
 # 1.Imaging Technique Inspiration
 
-Inspired by this work, I want to incorporate the particle elements from that work into the project and create their collision motion and interactions, to visually convey the effect of dynamic motion and a sense of movement and vigor by simulating dynamic interactions.
+Inspired by this artwork, I want to incorporate the particle elements from that work into the project and create their collision motion and interactions, to visually convey the effect of dynamic motion and a sense of movement and vigor by simulating dynamic interactions.
 
 ## 1.1images
 
 ![ Bubble Chamber!](/assets/images/univ51.jpg "Bubble Chamber")
-![ Bubble Chamber!](/assets/images/univ26.jpg "Bubble Chamber")
+![ Bubble Chamber!](/assets/images/univ20.jpg "Bubble Chamber")
 
 
 # 2.Coding Technique Exploration
