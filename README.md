@@ -12,6 +12,9 @@ Inspired by this work, I want to incorporate the particle elements from that wor
 
 I am planning to incorporate randomization techniques to add more variety and surprise to my project. I'll be using functions like randomSeed(), random(), and noise() to set a specific seed value and control the selection of colors, angles, sizes, and other attributes. This will guarantee that each time the code runs, it will generate distinct outcomes while remaining reproducible. Additionally, I will use random conditions in loops and random selections in arrays to enhance the visual components in my project.
 
+## images
+
+![ BubbleChamber!](/assets/images/BC.png "Bubble Chamber")
 
 ## links
-My favorite search engine is [BubbleChamber](https://openprocessing.org/sketch/1727335).
+Example implementation is [BubbleChamber](https://openprocessing.org/sketch/1727335).
